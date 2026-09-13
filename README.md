@@ -48,12 +48,6 @@ Las versiones anteriores (Windows 8.1, Windows 8, Windows 7 y más antiguas) **n
 
 ---
 
-<h2 align="center"> 📚 Documentación </h2>
-
-Puedes encontrar documentación, tutoriales y ejemplos en la [**Wiki**](https://github.com/NovaLauncherCMD/wiki/) del proyecto.
-
----
-
 <h2 align="center"> ❤️ Apoya el proyecto </h2>
 
 Si NovaLauncherCMD te resulta útil y deseas apoyar su desarrollo, puedes hacerlo desde [patreon](https://patreon.com/dr_nova_mc/).
